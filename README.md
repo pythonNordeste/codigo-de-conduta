@@ -1,6 +1,6 @@
-# Código de Conduta do Evento Python Sudeste
+# Código de Conduta do Evento Python Nordeste
 
-O evento Python Sudeste é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
+O evento Python Nordeste é um ambiente amistoso, de boa convivência, inclusivo e livre de intimidação, onde todas as pessoas são bem-vindas e a civilidade é exigida.
 
 Com esta finalidade, a organização do evento conta com uma Equipe de Resposta que atua para garantir um ambiente com essas qualidades.
 
@@ -24,13 +24,13 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 
 ---
 
-Este Código de Conduta baseia-se no [Código de Conduta do Evento Python Brasil](https://github.com/pythonbrasil/codigo-de-conduta) podendo ser alterado e melhorado independentemente do original.
+Este Código de Conduta baseia-se no [Código de Conduta do Evento Python Sudeste](https://github.com/pythonsudeste/codigo-de-conduta) podendo ser alterado e melhorado independentemente do original.
 
 ---
 
-# Python Sudeste Code of Conduct
+# Python Nordeste Code of Conduct
 
-Python Sudeste conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
+Python Nordeste conference is a friendly, inclusive and harassment-free environment where everyone is welcome and where civility is compulsory.
 
 Conference organizers offer a Response Team acting in order to guarantee such an environment.
 
@@ -53,4 +53,4 @@ In face of any allegation of violation of these principles, the Response Team wi
 
 ---
 
-This Code of Conduct is based on Python Brasil Code of Conduct and may be altered or improved regardless of it’s original.
+This Code of Conduct is based on Python Sudeste Code of Conduct and may be altered or improved regardless of it’s original.
